@@ -1,5 +1,4 @@
-## Hi there 👋
-
+I'm here and i'm programming!
 <!--
 **kymint/kymint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
